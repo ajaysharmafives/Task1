@@ -26,7 +26,11 @@ Before running the application, make sure you have the following installed:
 - **MySQL Database**
 
 ## API URL
-- http://localhost:8080/api/csv/upload
+- http://localhost:8080/api/csv/upload  (Upload data)
+- http://localhost:8080/api/csv/data  (fetch data)
+
+## Postman Collection URl
+  
 - http://localhost:8080/api/csv/data[Task1.postman_collection.json](https://github.com/user-attachments/files/19364577/Task1.postman_collection.json)
 
 
