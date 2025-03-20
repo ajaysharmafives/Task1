@@ -31,7 +31,7 @@ Before running the application, make sure you have the following installed:
 
 ## Postman Collection URl
   
-- http://localhost:8080/api/csv/data[Task1.postman_collection.json](https://github.com/user-attachments/files/19364577/Task1.postman_collection.json)
+- https://github.com/user-attachments/files/19364577/Task1.postman_collection.json
 
 
 ## Setup & Installation
